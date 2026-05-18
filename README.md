@@ -1,0 +1,1 @@
+# vk_currency_bot-
